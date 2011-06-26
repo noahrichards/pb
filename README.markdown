@@ -10,10 +10,10 @@ Here's a blog article I wrote about it back in 2005:
 
 **Peanutbutter** is a tiny bit of a twist on blogging. The need for this arose at my first co-op, when I was constantly barraged with “Hey, how far along are you on…?”, “Did you finish…?”, and “Can you tell me what you did today?”. I finally got sick of giving the same answers, over and over again, that I decided to create a central database of my project status. There were very few general requirements:
 
-  It had to contain whatever information was pertinent to a given project (abstractly enough that I could represent any type of project that you could imagine: coding, documentation, building a new deck on your house, etc.).
-  It had to contain the simplest blogging features – the ability for regular people to register and post comments about projects, and these privileges could be elevated (on a per-user basis) to allow managing project entries and posting site-wide news events.
-  It had to have the minimal set of features possible to be functional.
-  It had to provide some methodology for searching through projects, preferrably in some user-definable manner, so that users could easily pick and choose which projects to view.
+ - It had to contain whatever information was pertinent to a given project (abstractly enough that I could represent any type of project that you could imagine: coding, documentation, building a new deck on your house, etc.).
+ - It had to contain the simplest blogging features – the ability for regular people to register and post comments about projects, and these privileges could be elevated (on a per-user basis) to allow managing project entries and posting site-wide news events.
+ - It had to have the minimal set of features possible to be functional.
+ - It had to provide some methodology for searching through projects, preferrably in some user-definable manner, so that users could easily pick and choose which projects to view.
 
 …and that was really it. Everything else just happened along the way.
 
